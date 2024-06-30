@@ -33,3 +33,5 @@ if the networks have ground-truth excute this commmnad
 ```
 python3 Plouvain.py "path of dataset"  10 "path of ground-truth" 
 ```
+# Refernce:
+[1] : http://www.ijcee.org/vol8/927-A023.pdf 
