@@ -1,4 +1,6 @@
 Install :
- Networkx
- scikit-learn
- Numpy 
+
+Python version 3.10.9
+Networkx
+scikit-learn
+Numpy 
