@@ -14,6 +14,8 @@ The picture represents how the algorithm works:
 
 We use tow metric to quantify the quality of detected communities :
 - The Modularity function
+  ![Screenshot from 2024-06-30 16-17-30](https://github.com/salahinfo/Prune_louvain-algorithm/assets/39995961/0e90223b-48dd-4c61-ac7a-f84ad19a12c4)
+
 - The normal mutual information (NMI), for the networks with ground-truth
   ![Screenshot from 2024-06-30 16-10-15](https://github.com/salahinfo/Prune_louvain-algorithm/assets/39995961/0380e990-6f8b-4233-a774-74efa0a0574a)
 
