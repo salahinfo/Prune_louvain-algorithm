@@ -13,8 +13,11 @@ The picture represents how the algorithm works:
 ![Louvain-algorithm-overview-Fig-1-in-10](https://github.com/salahinfo/Prune_louvain-algorithm/assets/39995961/4a4a5740-8ca7-4989-bfd2-e6eed13be551)
 
 We use tow metric to quantify the quality of detected communities :
-- The Modularity function 
-- Nomrlized motual information (NMI), for the networks with ground-truth  
+- The Modularity function
+ Nomrli![Screenshot from 2024-06-30 16-12-55](https://github.com/salahinfo/Prune_louvain-algorithm/assets/39995961/07a95392-f323-4238-aa2a-3c1af0c94f6e)
+zed motual information (NMI), for the networks with ground-truth
+  ![Screenshot from 2024-06-30 16-10-15](https://github.com/salahinfo/Prune_louvain-algorithm/assets/39995961/0380e990-6f8b-4233-a774-74efa0a0574a)
+
 
 # Usage :
  Note that the algorithm has been executed ten times to give you the metric value's maximum, average, and standard deviation. 
