@@ -1,6 +1,6 @@
 # Prune_louvain-algorithm
 # Introduction 
-This repository includes the implementation of the enhanced Louvain algorithm[1] in Python. The main idea behind this improvement is to reduce computational time using the fast local move heuristic.
+This repository includes the implementation of the enhanced Louvain algorithm[1] in Python to define the community strucure in complex networks. The main idea behind this improvement is to reduce computational time using the fast local move heuristic.
 For more details, see the paper entitled "A Simple Acceleration Method for the Louvain Algorithm. "
 the Prune louvain algorithm consist of different setps:
 ```
