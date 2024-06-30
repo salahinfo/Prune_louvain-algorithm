@@ -1,3 +1,3 @@
 # Prune_louvain-algorithm
-### algorith
+### algorithm
 
